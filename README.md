@@ -1,4 +1,4 @@
-# Blog Title :link: https://Zgm1020.github.io 
+# My Docs :link: https://Zgm1020.github.io 
 ### :page_facing_up: [1](https://Zgm1020.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 15 
