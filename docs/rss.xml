@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://zgm1020.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://zgm1020.github.io</link></image><lastBuildDate>Tue, 07 May 2024 03:02:28 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>测试嵌入图片</title><link>https://zgm1020.github.io/post/ce-shi-qian-ru-tu-pian.html</link><description>&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://zgm1020.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://zgm1020.github.io</link></image><lastBuildDate>Mon, 27 May 2024 07:39:14 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>域名988978.xyz购买</title><link>https://zgm1020.github.io/post/yu-ming-988978.xyz-gou-mai.html</link><description>### 1. 购买网址&#13;
+#### 1.1 [域名网址](https://www.namesilo.com)&#13;
+&#13;
+#### 1.2 输入需要购买的域名&#13;
+![image](https://github.com/zgm1020/zgm1020.github.io/assets/55151533/1185bd3f-b415-477f-bee4-9528ff8f7d2b)&#13;
+&#13;
+#### 1.3 看价格，我选择的是这里面最便宜的 0.99美元1年&#13;
+![image](https://github.com/zgm1020/zgm1020.github.io/assets/55151533/68ff8436-7133-4983-a097-621aa5a25873)&#13;
+---&#13;
+### 2. 付款方式&#13;
+&gt; 支付宝&#13;
+#### 付款选择支付宝直接支付宝扫码支付 1美元7.2人民币，汇率实时变动&#13;
+![image](https://github.com/zgm1020/zgm1020.github.io/assets/55151533/38b63b5b-c26a-4850-9256-e20c6d5b92c4)&#13;
+---&#13;
+### 3. 转移到cloudflare托管&#13;
+&gt; 转移dns&#13;
+---&#13;
+### 4. 关联github仓库托管博客&#13;
+&gt; 创建page。</description><guid isPermaLink="true">https://zgm1020.github.io/post/yu-ming-988978.xyz-gou-mai.html</guid><pubDate>Mon, 27 May 2024 07:38:42 +0000</pubDate></item><item><title>测试嵌入图片</title><link>https://zgm1020.github.io/post/ce-shi-qian-ru-tu-pian.html</link><description>&#13;
 ### 这是一个通过playbook网盘上传的图片链接&#13;
 &#13;
 &lt;img width="auto" height="auto" src="https://img.playbook.com/92gy0xclFTw6Sxugv_lw-4cwH4Dw9nFmY1SeGfRvAW8/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzViYmRjMDZj/LTA3YTktNDQyNC05/OWVhLThjMzQ5ZDk1/MjYzNA" alt="" /&gt;。</description><guid isPermaLink="true">https://zgm1020.github.io/post/ce-shi-qian-ru-tu-pian.html</guid><pubDate>Tue, 07 May 2024 03:00:37 +0000</pubDate></item><item><title>第一篇博客</title><link>https://zgm1020.github.io/post/di-yi-pian-bo-ke.html</link><description># 标题&#13;
